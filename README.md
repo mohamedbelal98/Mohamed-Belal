@@ -29,7 +29,7 @@ I am a passionate Software Test Engineer specializing in automation testing to e
 <a href="https://www.linkedin.com/in/mohamedbelal98/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://github.com/mohamedbelal98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
-<b>GitHub Status</b>
+<b>GitHub stats</b>
 
 <a href="http://www.github.com/mohamedbelal98"> 
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedbelal98&show_icons=true&hide=prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mohamed Belal's GitHub status" /> 
